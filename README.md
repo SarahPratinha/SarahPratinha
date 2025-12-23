@@ -5,9 +5,6 @@
 </div>
 
 ---
-
-### Sobre mim
-
 Técnica em Desenvolvimento de Sistemas, atualmente focada no estudo da linguagem Java para aprofundar meus conhecimentos em desenvolvimento de software.
 
 Experiência prática com HTML, CSS, JavaScript, JSON, Python, lógica de programação, dados e noções de redes, desenvolvida ao longo do curso técnico.
