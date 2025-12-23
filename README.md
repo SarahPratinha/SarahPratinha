@@ -29,7 +29,13 @@ Interesse em tecnologia, gestão e dados, com foco na organização e otimizaç�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
 </p>
 
+---
+### Conecte-se comigo
 
+<a href="https://www.linkedin.com/in/SarahPratinha/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
+</a>
 
+</div>
 
 
