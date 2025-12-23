@@ -15,7 +15,8 @@ Interesse em tecnologia, gestão e dados, com foco na organização e otimizaç�
 ### Foco de Estudos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/>  
-<img src="https://img.shields.io/badge/Java-Estudos%20Ativos-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Estudos%20Ativos-eca88f?style=for-the-badge&logo=java&logoColor=white"/>
+
 
 ███████████░░░░░░░░░░ 60%
 
